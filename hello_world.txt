@@ -1,0 +1,1 @@
+Adding some text to test hello_world and move it to the staged area
